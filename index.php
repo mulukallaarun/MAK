@@ -1,6 +1,5 @@
 <?php
-echo 'hello 6';
-prrrr 'hhiikp';
+echo 'hello 7';
 print phpinfo();
 return 0;
 ?>
