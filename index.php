@@ -1,6 +1,5 @@
 <?php
-echo 'hello 3';
-//prrrr 'hh';
+echo 'hello 4';
 print phpinfo();
 return 0;
 ?>
